@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/rodolfocharles/AdminFaqOI/issues"
   },
-  "homepage": "https://github.com/rodolfocharles/AdminFaqOI#readme"
+  "homepage": "https://github.com/rodolfocharles/AdminFaqOI#readme",
+  "dependencies": {
+    "express": "^4.17.0"
+  }
 }
